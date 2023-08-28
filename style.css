@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .w-500 {
+        width: 500px;
+    }
+    .h-500{
+        height:500px
+    }
+    .w-400 {
+        width: 400px;
+    }
+    .h-400 {
+        height: 400px;
+    }
+    .w-250 {
+        width: 250px;
+    }
+}
